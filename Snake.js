@@ -1,0 +1,6 @@
+
+function Snake() {
+
+}
+
+new Snake();
